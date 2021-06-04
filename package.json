@@ -1,0 +1,25 @@
+{
+  "name": "projeto-faculdade",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/victordoui/projeto-faculdade.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/victordoui/projeto-faculdade/issues"
+  },
+  "homepage": "https://github.com/victordoui/projeto-faculdade#readme",
+  "dependencies": {
+    "next": "^10.2.3",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  }
+}
